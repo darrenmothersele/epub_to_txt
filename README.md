@@ -27,3 +27,6 @@ Compare with `ebook-convert` CLI tool from Calibre:
 - Simple 248K text only epub = 1.28s
 - 1.9M software engineering book = 135.98s
 - More complex 37.1M computer science textbook = 11.32s
+
+That second book had lots of errors in the formatting, that this tool
+ignores, but slows down the Calibre conversion significantly. 
