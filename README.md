@@ -21,3 +21,9 @@ Time taken to convert some example epub books (on my MacBook Pro):
 - Simple 248K text only epub = 0.02s
 - 1.9M software engineering book = 0.03s
 - More complex 37.1M computer science textbook = 0.15s
+
+Compare with `ebook-convert` CLI tool from Calibre:
+
+- Simple 248K text only epub = 1.28s
+- 1.9M software engineering book = 135.98s
+- More complex 37.1M computer science textbook = 11.32s
